@@ -1,2 +1,2 @@
 # PWeb
-Portifólio de sites em HTML e CSS
+Portifólio de sites simples em HTML e CSS
