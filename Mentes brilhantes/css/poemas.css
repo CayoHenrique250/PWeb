@@ -1,0 +1,20 @@
+p{
+    color: white;
+    font-family: Arial;
+    font-size: 110%;
+}
+
+.conteiner{
+    margin-top: 4%;
+}
+
+.conteiner2{
+    margin-bottom: 5%;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+h3{
+    color: #AD86F1;
+}
